@@ -1,6 +1,6 @@
 
 Feature: Logout
-  @logout
+  @NEX-185
   Scenario: Landing in login page after clicking logout
     Given The user is on the homepage
     When The user clicks the profile
